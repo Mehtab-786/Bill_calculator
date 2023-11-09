@@ -1,2 +1,2 @@
 # Bill_calculator
-Help in calculating bills
+This program will help you in calculating Bills with tip 
